@@ -1,5 +1,7 @@
 Persistence Manager v.1.4
 
+https://github.com/astrolavos1998/Persistence-Manager-DCS
+
 Instalation:
 	Run the DCS-PERSISTENCE_v.1.4.7.exe file.
 	
